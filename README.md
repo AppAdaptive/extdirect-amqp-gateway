@@ -4,6 +4,6 @@ ExtDirect amqp server using ExtDirect ((c) Sencha Corp.) as communication means 
 
 The main ExtDirect package is a fork of https://github.com/jurisv/nodejs.extdirect 
 
-If this package is used instead of the original nodejs.extdirect packages, all examples of the example github mentioned in the original packgage should work as well.
+If this package is used instead of the original nodejs.extdirect package, all examples of the example git-repository mentioned in the original packgage should work as well.
 
 Developed and tested with rabbitMQ 3.6.1
